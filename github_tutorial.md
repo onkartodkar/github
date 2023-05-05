@@ -1,4 +1,4 @@
-Sure, here are some common Git commands:
+
 
 1. `git init`: initializes a new Git repository in the current directory
 2. `git add`: stages changes in the working directory for the next commit
@@ -44,8 +44,6 @@ This command sends local changes to a remote repository. You can use it to publi
 
 10. `git pull`: 
 This command fetches changes from a remote repository and merges them into the local repository. You can use it to get the latest changes made by other contributors to a repository. You will need to specify the name of the remote repository and the name of the branch you want to pull from.
-
-Sure, here are some more Git commands:
 
 11. `git clone`: 
 This command creates a copy of a remote repository on your local machine. You can use it to download a complete copy of a repository to work on locally.
